@@ -1,2 +1,2 @@
 # Netflix-Data-Evaluator
-Netflix Data Evaluator is my first ever project. This project figures out how much time you have spent on movies or shows you have watched on Netflix. It also looks at the specific days and times by graphing two charts. This was created in Jupyter Notebook and I used Python and pandas.
+First individual project done at home which figures out how much time was spent on movies or shows watched on Netflix. It shows specific days and times by graphing two charts. This was created in Jupyter Notebook, and Python and Pandas were used.
